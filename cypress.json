@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://localhost",
+    "viewportWidth": 1300,
+    "defaultCommandTimeout": 20000,
+    "chromeWebSecurity": false,
+    "RETRIES": 3,
+    "RETRIES_HIDDEN":1,
+    "numTestsKeptInMemory": 0
+  }
+  
